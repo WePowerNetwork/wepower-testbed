@@ -8,3 +8,5 @@ Be sure to check our **report in our notebook**: [**here**](https://github.com/W
 Relevant documents and reports are visible under "Code" section here.
 
 For more information please also check our [**Official Medium Announcement**](https://medium.com/wepower/wepower-elering-nationwide-energy-experiment-results-revealed-300d65514141 "Announcement on Medium") and a [video with a **word from our founders**](https://youtu.be/IYaLQ0XU5OQ "Announcement on Youtube").
+
+![WePower-logo](images/WePower-logo.jpg "Visit WePower homepage")
